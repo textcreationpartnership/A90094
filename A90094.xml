@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations upon the instructions for the taking the vovv and covenant throughout England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90094</idno>
+            <idno type="STC">Wing O119</idno>
+            <idno type="STC">Thomason E64_9</idno>
+            <idno type="STC">ESTC R11387</idno>
+            <idno type="EEBO-CITATION">99859013</idno>
+            <idno type="PROQUEST">99859013</idno>
+            <idno type="VID">111074</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111074)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E64[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations upon the instructions for the taking the vovv and covenant throughout England.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the University,</publisher>
+                  <pubPlace>Oxford [i.e. London?] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Apparently a London counterfeit of the Oxford edition (Madan).</note>
+                  <note>Includes an abridgment of "Instructions how and in what manner the said vow and covenant shall be taken" which were promulgated by Parliament 27 June 1643. "The said vow and covenant" is that promulgated by Parliament 6 June 1643.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  Controversial literature --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643).</term>
+               <term>Oaths --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111074:1" rendition="simple:additions"/>
+            <p>OBSERVATIONS UPON THE <hi>INSTRVCTIONS</hi> For the taking the VOVV AND COVENANT Throughout <hi>ENGLAND.</hi>
+            </p>
+            <p>OXFORD, Printed by <hi>Leonard Lichfield,</hi> Printer to the Univerſity. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111074:2"/>
+            <pb n="1" facs="tcp:111074:2"/>
+            <head>Obſervations upon the Inſtructions for the taking the Vow and Covenant throughout the Kingdome.</head>
+            <p>Inſtruct. 1. and 2.</p>
+            <p>
+               <hi>THat all Knights and Burgeſſes now in Parliament, doe <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpeciall care ſpeedily to ſend downe into their ſeverall Counties, a competent number of the copies of the Vow and Covenant, unto the Deputy Lievete<g ref="char:EOLhyphen"/>nants and Committees of Parliament, in their ſeverall Counties and re<g ref="char:EOLhyphen"/>quire a Certificate from them of the day when they were received, &amp;c. And that the ſaid Deputy Lievtenants and Committees doe within ſix dayes at the utmoſt, diſperſe the ſaid copies unto every Pariſh Church or Chapell in their ſeverall Counties, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Obſer.</hi> 1. That theſe Inſtructions are not acknowledged to be made or enjoined by either or both Houſes of Parliament, only in the frontiſpice of the paper, wherein they and the Oath are Printed, wee finde an Order mentioned as made by the Lords and Commons, for the Printing and publiſhing theſe Inſtructions to the whole Kingdome. Which to my appre<g ref="char:EOLhyphen"/>henſion imports, that ſome private men, or ſome Parliament men in a private way framed them, and ſo preſented them to the Lords and Commons for their approbation to the printing and publiſhing of them: and that is all the true power and au<g ref="char:EOLhyphen"/>thority they as yet carry in them. But I aſſure you, whoſoever they were that contrived them, they flew very high in their preſumption, to make all the Knights and Burgeſſes now in Parliament, to bee the firſt Officers in that diſparch. I ſhould thinke that where ſuch as they are required to doe ought, there ſhould be at leaſt a Be it enacted by our Sovereigne Lord the King, with the conſent of the Lords and Commons, &amp;c. pre<g ref="char:EOLhyphen"/>fixed
+<pb n="2" facs="tcp:111074:3"/>
+before it, and had the King and the Lords with the con<g ref="char:EOLhyphen"/>ſent of ſome of the Knights and Burgeſſes impoſed ſuch an of<g ref="char:EOLhyphen"/>fice upon all Knights and Burgeſſes in Parliament, it would have gone neere to have beene voted an high breach of their priviledges. It were therefore well worth the knowing, who it is that hath gotten this new Sovereignty over all the Knights and Burgeſſes now in Parliament.</p>
+            <p>
+               <hi>Obſer.</hi> 2. That the Knights and Burgeſſes choſen by the ſe<g ref="char:EOLhyphen"/>veral Counties to keepe off all preſſures and burdens from them, are heereby made the prime inſtruments of laying the foreſt and heavieſt burden on them that ever was laid on them ſince the burdon of the ſix Articles. Thus doth God, when a<g ref="char:EOLhyphen"/>ny truſt in the ſhadow of brambles, not only ſuffer thoſe bram<g ref="char:EOLhyphen"/>bles to plucke off their fleeces and teare their skinnes, but often<g ref="char:EOLhyphen"/>times cauſeth fire to come out of thoſe brambles to devoure them, and the talleſt Cedars of Lebanon that are neere them. Did the Knights and Burgeſſes of the ſeverall Counties ſeri<g ref="char:EOLhyphen"/>ouſly conſider, how many ſoules will be hazarded by taking this oath thus conveied unto them (as ſome by taking it doubt<g ref="char:EOLhyphen"/>ingly, others by taking it ignorantly, ſome by taking it pre<g ref="char:EOLhyphen"/>ſumptuouſly, others by taking it deſperately, and all by taking in ſinfully and irreligiouſly,) they would beware how they had any further hand in this buſineſſe, knowing that they have e<g ref="char:EOLhyphen"/>nough to anſwer, for what they themſelves have ſworn, with<g ref="char:EOLhyphen"/>out bringing upon them the guilt of others fwearing and for<g ref="char:EOLhyphen"/>ſwearing in this dreadfull maner.</p>
+            <p>
+               <hi>Obſer.</hi> 3. That if any of the Deputy Lievtenants and Com<g ref="char:EOLhyphen"/>mittees of Parliament in their ſeverall Counties (ſuch miniſters of Juſtice as were never heard of in any County till this pre<g ref="char:EOLhyphen"/>ſent Parliament) ſhould have ſo much bowels and compaſſion towards the ſoules of poore people, as to deſire to give them ſome reliefe againſt this oath, or ſome reſpite to bethink them<g ref="char:EOLhyphen"/>ſelves
+<pb n="3" facs="tcp:111074:3"/>
+better of it, ere it be tendered to them, they cannot af<g ref="char:EOLhyphen"/>foord any eaſe or time to any ſoule without danger to them<g ref="char:EOLhyphen"/>ſelves. Should a man compare the liberty granted in former times unto others, through whoſe hands oathes were to paſſe, ere they were taken, with the liberty alotted to all thoſe through whoſe hands this oath is to paſſe, hee would hardly believe, that the liberty of the Subject is ſo maintained in any reſpect, as is pretended, no not in reſpect of mens conſciences, their moſt precious liberty: nay the liberty and reſpite granted for the tendring and taking of the late Canonicall oath ſo much and ſo juſtly ſpoken againſt, was moſt gracious and conſcien<g ref="char:EOLhyphen"/>cious to what this is.</p>
+            <p>Inſtruct. 3. <hi>The Miniſters of the ſeverall Churches or Chapels are to give publicke notice upon the firſt Lords day after the receipt of ſuch copies &amp;c. What day the ſaid Vow and Covenant ſhall be taken, the time not to exceed the ſeventh day after ſuch notice.</hi>
+            </p>
+            <p>
+               <hi>Obſer.</hi> If the copies come to the Miniſters hands on the Sa<g ref="char:EOLhyphen"/>turday night, hee ſhall have but very ſmall time, till the next day, to conſult with God, the oath, and himſelfe, whether it be lawfull for him to invite his people to make ſuch a covenant or not: much leſſe hath hee any convenient time to fit and prepare his people for ſo ſolemne a buſineſſe. Then if the Mi<g ref="char:EOLhyphen"/>niſter chance to be a forward man in the promoting it, (as there are not a few forward promoters of Parliament Orders, bee they what they will be) hee may appoint the next day after for the taking it; and cannot, if hee would, deferre it above ſeven dayes, (the people muſt not be ſuffered to chew too long upon it, leſt in ſtead of ſwallowing it, they nauſeat or diſtaſt it;) and alas, what reſolution or ſatisfaction in point of conſcience, can poore ſoules, that ſhall ſcruple ought in this Covenant, get within ſo-ſhort a ſpace? You know the faſhion of moſt Coun<g ref="char:EOLhyphen"/>try people; they will hardly ſpare a day to conſult the Phyſi<g ref="char:EOLhyphen"/>tion
+<pb n="4" facs="tcp:111074:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:111074:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:111074:5"/>
+in a dangerous diſeaſe, till the market day come, that they may doe that and their other buſineſſe together: and tis to bee feared too many of them will as hardly ſpare a day to conſult the Divine, in this deſperate caſe, till the Lords day come, that they may goe to their Church, and to their Miniſter both at once. Beſides, it may be thoſe Miniſters whoſe judgement they deſire to heare, are impriſoned, or flying up and downe for fear of impriſonment, many miles from them; and ere they can goe or ſend to them, their alotted time will be expired: or it may happen that thoſe Miniſters, or other knowing friends, to whom they addreſſe themſelves neere hand, may bee ſo far from ſatisfying their doubts, that they may cauſe more to ariſe in them: yet take it they muſt within ſo few daies. Their Mi<g ref="char:EOLhyphen"/>niſters themſelves, that have the charge of their ſoules, and muſt be anſwerable ſoule for ſoule, cannot grant them longer time though it were to ſave their ſoules from periſhing.</p>
+            <p>Inſtruct. 4. and 5. <hi>For feare leſt at the day appointed ſome ſhould ſlip from taking this Oath, or ſhuffle it over in the taking: tis Ordered, That the Conſtables in every Pariſh, ſhall bring to the Miniſters of the Pariſh, the names fairely written of all men above the age of fifteene, reſiding with<g ref="char:EOLhyphen"/>in their ſeverall Pariſhes: and a Regiſter Boo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is to bee provided by the Churchwardens, wherein the Covenant is to bee faire written, and every mans name or marke, that takes it, ſubſcribed, after he hath taken it with an audible voice, in the preſence of the Miniſters, Churchwardens, Side<g ref="char:EOLhyphen"/>men, and Conſtables of each Pariſh, or two of them, at the leaſt, jointly with the Miniſter.</hi>
+            </p>
+            <p>
+               <hi>Obſer.</hi> Poore wretches! muſt the firſt Sacrament that ma<g ref="char:EOLhyphen"/>ny of them take after their Baptiſme, be a Sacrament to ſweare themſelves up to doe that, which in their Baptiſme they pro<g ref="char:EOLhyphen"/>miſed and vowed not to doe? Alas for them! le<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one of fif<g ref="char:EOLhyphen"/>teene or ſixteene years be examined through the ſeverall parti<g ref="char:EOLhyphen"/>culars of this Vow and Covenant, what he knowes of them,
+<pb n="5" facs="tcp:111074:5" rendition="simple:additions"/>
+hath done in them, or intends to doe concerning them; and who would not take his word, ſo far as he is able to give an ac<g ref="char:EOLhyphen"/>count, without putting him to his oath? When the Oath of Allegiance was by the King and Parliament to be taken by the Subjects, upon the diſcovery of as great a plot certainly, as this now ſo much talked of, <hi>viz.</hi> the Powder Treaſon, as they did not in all that oath require any to ſweare that they had no hand in it, ſo, in requiring them to ſweare what they did by way of promiſe for the future, they thought it fit to require none to take that oath under the age of eighteene yeares, though hee were convict or indicted of or for any recuſancy; ſuppoſing (as by the Statute in that caſe appeares) that by that age they ought to know what belonged to ſo ſolemne an oath, and be<g ref="char:EOLhyphen"/>ing then of a convenient age to have received the Sacrament of the Lords Supper, they concluded they ought to have received it if they had not: but for our younglings in theſe times (to ſuch maturity of knowledge and judgement are we growne a<g ref="char:EOLhyphen"/>bove our fathers) they muſt be put to take a ſolemne oath, and enter into a vow and covenant at the age of fifteene, and that ſuch a one as their fathers though of fifty and upwards, do not underſtand, nor ever heard of the like, for ſo much as they do underſtand. And unhappy Miniſters, they to whom Chri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t hath given ſuch ſpeciall charge, as they love hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Sheep and his Lambs, they of all others <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> according to thoſe inſtructions, call to (or ſtand by as invit<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> whileſt others call) thoſe Sheep and Lambs to ſwallow do<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that, which will not onely (like that bitter water, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the curſe in the caſe of jealouſie, too much reſembling <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſent caſe <hi>Num.</hi> 5.) cauſe their bodies to rot, but alſo <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome waters that <hi>David</hi> ſo ſorely complained of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) enter in unto their ſouls, and endang<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their periſhing <hi>Chryſoſtome,</hi> as I remem<g ref="char:EOLhyphen"/>ber, declames exceedingly aga<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he tendring oaths to the
+<pb n="6" facs="tcp:111074:6"/>
+people by Miniſters, for that there is ſo great perill in taking them; but now Miniſters muſt either tender a moſt perilous oath (to ſay the leaſt of it) to their people, or runne the perill of the high diſpleaſure of the two Houſes of Parliament, what<g ref="char:EOLhyphen"/>ſoever elſe betide them. God of his goodneſſe ſtand by his Miniſters and encourage them to ſtand for his Sheepe and his Lambs, that they be not caught in this ſnare, and not to ſtand by them, looking on, and helping forward their inſnaring.</p>
+            <p>It is well worthy all Miniſters conſideration at this time, that the tendring and countenancing this oath is recommen<g ref="char:EOLhyphen"/>ded particularly and principally to them, who untill this Par<g ref="char:EOLhyphen"/>liament were never wont to be called to any ſuch imployment, at leaſt not ſo generally, as now they are. It may be God ſuf<g ref="char:EOLhyphen"/>fers this to ſet before Miniſters eyes their late over forward<g ref="char:EOLhyphen"/>neſſe in impoſing a new oath upon their fellow Miniſters, and others; and if ſo, I pray God open their eyes that they may ſee it; or, which I rather thinke, God is reſolved to have Miniſters now brought to the teſt or tryall, whether they of all others love his truth or people entruſted with them, ſo well, as to dare to be valliant for either: and therefore to prevent all excuſe, he will have every Miniſter, that hath any people committed to hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then to be preſent when this truth-oppoſing, ſoul-<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>azar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing covenant is to be tendred to the people, that ſo hee may prove their courage, whether like magnanimous <hi>David</hi> kee<g ref="char:EOLhyphen"/>ping his fathers ſhe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p, they will adventure to encounter with a Lion and a Beare, 1 <hi>Sam.</hi> 17. rather then ſuffer one Lambe to be devoured; or like the ſlothfull coward in the Proverbs, will not thinke it a fair excuſe, to ſay, There is a Lion without, I ſhall be ſlaine, &amp;c. and ſo fit ſtill or runne away<g ref="char:punc">▪</g>, and leave their whole flocks to the prey and ſpoyle of cruell beaſts ready to devoure. A good ſhepheard (ſaith our great Shepheard) will give his life for his ſheep, much much more his living,
+<pb n="7" facs="tcp:111074:6"/>
+much more his liberty. And never had good ſhepheard in this Kingdome ſuch an opportunity to ſhew his goodneſſe in ad<g ref="char:EOLhyphen"/>venturing for the ſafety of his ſheep, as at this preſent; when his very reſuſing to countenance and aſſiſt the deſtroying of them, may ſave both them, and himſelfe from deſtruction; for if the Miniſter refuſe to joyne with two of his Pariſh in the ten<g ref="char:EOLhyphen"/>dring of this new oath, all the Pariſhioners may bee excuſed from the taking it, till ſome new order bee made by the two Houſes to ſupply that defect, and by that time God may pleaſe to provide ſome other reliefe. And here I am <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ld to bee a monitor in particular to thoſe Miniſters, who were ſo <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cour<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gious in refuſing and petitioning againſt the late Ca<g ref="char:EOLhyphen"/>nonicall oath; let them of all others take heed that they do not deſtroy thoſe conſciences now, which they pretended ſo zea<g ref="char:EOLhyphen"/>louſly to preſerve then, and with them many thouſands more committed to their charge. And for the proviſion of a Regi<g ref="char:EOLhyphen"/>ſter booke to record every mans name that ſhall take this oath, me thinks that ſtrictneſſe ſhould rather <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar many from taking it, then ſeduce any to it, conſidering what a dreadfull and hor<g ref="char:EOLhyphen"/>rible record that may prove againſt the takers when ever the King ſhall be reeſtabliſhed in His Throne, which is to be ho<g ref="char:EOLhyphen"/>ped, through Gods mercy to this Nation, will not be long.</p>
+            <p>Inſtruct. 6. <hi>In caſe my reſiding in the Pariſh ſhould faile of taking this oath at the firſt day appointed, the Miniſter is required to appoint another day ſpeedily<g ref="char:punc">▪</g> after, and the Churchwardens or ſome other for them are to goe to their houſes and give them perſonall notice, and if they be not at home to leave the notice with ſome of the houſe, and if they come not to take it at that time, they may be returned for refuſers of it.</hi>
+            </p>
+            <p>
+               <hi>Obſer.</hi> The ſtarting aſide then, or obſcuring themſelves for a time will advantage but little, only there is one clauſe in this Inſtruction which is ſomewhat favourable to ſuch, and that is the laſt: That if they come not and take it on the ſecond day appointed, they may be returned for refuſers, if the returners
+<pb n="8" facs="tcp:111074:7"/>
+pleaſe. But I beſeech you, what if any man have a juſt occaſi<g ref="char:EOLhyphen"/>on to abſent himſelfe from his place of reſidence a compleat month together, juſt, and at that time when the oath is to be taken, ſo that notice cannot poſſibly be given him within the time limited by the inſtructions; whether ſhall he be taken for a refuſer or not, and this may chance to be many an honeſt mans caſe, and ſhould be mine, were I not confident of cou<g ref="char:EOLhyphen"/>rage enough, through Gods ſtrengthning me, not only to de<g ref="char:EOLhyphen"/>ny the taking this oath, but to profeſſe my deteſtation of it, and to ſuffer whatſoever ſhall be inflicted for making ſuch a profeſ<g ref="char:EOLhyphen"/>ſion. In the intrim, I cannot but obſerve what care and paines is taken to gaine proſelites, when tis to make them twofold more the children of hell then they were: who can ſhew when there hath been ſuch care taken to bring men into the Church, who have ſeparated from it, or to bring any that are yet within the Church, to renew their covenant with God in the Sacrament of the Lords Supper, and to communicate with the congregation in other ſacred, though now deſpiſed Ordi<g ref="char:EOLhyphen"/>nances of God. But with ſuch care and circumſpection doth God ſuffer the tendring this horrid oath to be managed, that he that feareth an oath may bee the better knowne from him that ſweareth.</p>
+            <p>Inſtruct. 7. <hi>It is Ordered, that the Miniſters and Church<g ref="char:EOLhyphen"/>wardens, ſhall within twenty dayes after their receipt of the copies of the Vow and Covenant, make a true certificate of the names of all ſuch within their Pariſhes as doe not take it, unto ſuch perſons as ſhalbe appointed for that purpoſe.</hi>
+            </p>
+            <p>
+               <hi>Obſer.</hi> Tis preſumed you ſee that all Miniſters and Church<g ref="char:EOLhyphen"/>wardens will certainly take this Oath themſelves, and as cer<g ref="char:EOLhyphen"/>tainly betray all their poore Pariſhioners and neighbours, by a Certificat: for otherwiſe they would have provided, that ſome others in every Pariſh ſhould make this Certificate, in caſe
+<pb n="9" facs="tcp:111074:7"/>
+theſe ſhould refuſe or neglect to do it: or perhaps they thought that there are falſe brethren enough in every Pariſh to do that, and to enforme againſt thoſe that ſhall be faulty or ſlacke in proſecuting this or any other of theſe Inſtructions. Indeed in one clauſe of this 7. Inſtruction, they ſeem to doubt ſomewhat of ſome Miniſters forwardneſſe in the buſineſſe, whether they would ſo ſpeed it, as to ſend in the Certificate within the 20. dayes preſcribed, and have made a kinde of proviſo in that caſe, but for the taking the oath, and making a Certificate of thoſe that doe not take it, and obſerving other inſtructions re<g ref="char:EOLhyphen"/>commended unto them by their order, they would have us be<g ref="char:EOLhyphen"/>leeve them to be ſuch for piety and juſtice, at leaſt that they themſelves thinke them ſuch, as no Miniſter, now they have purged the Church of ſo many ſcandalous &amp; malignant Mini<g ref="char:EOLhyphen"/>ſters, will once ſc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uple them. Here then again, the Miniſters if they dare be ſo honeſt and ſtoo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, have another advantage to preſerve their people for a while, and if the Churchwardens ſhould ſend in no certificate at all there is no order as yet, for any to returne their names.</p>
+            <p>Inſtruct. 8. <hi>That all that doe not take this oath be forthwith diſ<g ref="char:EOLhyphen"/>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>med, &amp;c. but perhaps that is done already, and what then? why if it can be proved by any one, unleſſe that they had in their cuſto<g ref="char:EOLhyphen"/>dy any armes whatſoever, at the time of the making of this cove<g ref="char:EOLhyphen"/>nant, or at any time ſince, wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch they ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll not then deliver to th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe appointed to ſeiſe the ſame, then they ſhall be forthwith committed to priſon without bail or manupriſe.</hi>
+            </p>
+            <p>
+               <hi>Obſer.</hi> Here is an inſtruction with a witneſſe, any one mans teſtimony, though a Knight of the Poſt, or a Gentlem<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom the whipping poſt, that ſhall but ſay, that I had any thing in my houſe, that he or I know not who elſe, ſhall pleaſe to call Armes (ſuppoſe a birding peece, a ſtonebow, a pikeſtate, a pitchforke, a bodking, or a ring, eſpecially with a coat of arms
+<pb n="10" facs="tcp:111074:8"/>
+on it) and did not deliver it up to the appointed ſeiſers, ſhall be of power ſufficient to authoriſe thoſe ſeiſers or any man elſe, for ought I can ſee in the inſtructions to the contrary, to ſeiſe upon my perſon, and clap me into priſon without bail or ma<g ref="char:EOLhyphen"/>nupriſe. Oh the miraculous liberty of the Subject, when not only the Lawes of men are caſt off, and laid aſide, but the ex<g ref="char:EOLhyphen"/>preſſe Law of God himſelfe is made of none effect through <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; that requi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, Deut. 19. 15. That one wit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> up againſt a man for any iniquity or for any <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> [but that] at the mouth of two or three wit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall be eſtabliſhed. Whereas here it is or<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d, that any one witneſſe riſing up againſt a man, and that ne<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her for any ſinne, nor for any iniquity, ſhall be of validity to deprive any man of that liberty which many a foule crime cannot legally debarre him of. Here is alſo an admirable de<g ref="char:EOLhyphen"/>vice to plunder all Cutlers and Armorers of all their lively<g ref="char:EOLhyphen"/>hood at once, and had it beene thought on in time, it might have ſtopt ſome of their clamouring for want of their monyes promiſed them for ſwords, piſtols, and other Armes. And I hope now, Popiſh Recuſants will not take it ill to be diſarmed of all their Armes by act of Parliament, when an inſtruction ſhall diſarme all pious recuſants of an impious Covenant<g ref="char:punc">▪</g> Look to thy ſelfe O Iſrael, the Philiſtimes had once like to have rui<g ref="char:EOLhyphen"/>ned thee with this very tricke, when in the day of battell there was neither ſword nor ſpeare found in the hand of any of the people that were with <hi>Saul</hi> and <hi>Ionathan,</hi> 1 Sam. 15. and tis no very hard matter to cut a mans throat when hee hath nothing wherewith to deſend himſelfe.</p>
+            <p>Inſtruct. 9. <hi>That no ſouldier entertained ſhall receive ann pay from the State, untill they have in the preſence of their Comman<g ref="char:EOLhyphen"/>der, and ſome Miniſter taken the Vow and Couenant.</hi>
+            </p>
+            <p>
+               <hi>Obſer.</hi> A moſt rare antidote againſt the infectious complai<g ref="char:EOLhyphen"/>ning
+<pb n="11" facs="tcp:111074:8"/>
+of the Parliament ſouldiers for want of pay; they muſt now pawne their ſoules, as they have a long time ventured their bodies, and ſwear a little deeper then any Cavaliers dare ſweare ere they get a penny of all their arreere: and when they have ſworne, the ſame Miniſter that encouraged them to take this oath, or tendered it to them, can, and tis likely will upon better grounds aſſure them that after they have taken it, they are obliged thereby to goe on in that ſervice, though they never receive any pay at all. There is not here as you ſee, any hope left for any to evade either the taking this oath or the being throughly tryed and knowne, whether hee will take it or not. And if it he not taken you may deſcry a likelyhood of miſchiefe enough intended to the refuſers, and if it be taken, what woes, what miſeries, what judgements, what torments of ſoules and conſciences, either here, or hereafter, or both the ta<g ref="char:EOLhyphen"/>kers thereof will plunge themſelves in, or make themſelves liable unto, no tongue can expreſſe, though there is enough expreſſed in a few words by two of the Prophets, <hi>Malacie</hi> and <hi>Zacharie,</hi> to make any takers of this new oath to tremble at the very reading of it, con<g ref="char:EOLhyphen"/>ſult the words, I beſeech you, <hi>Mal.</hi> 3. 5. and <hi>Zac.</hi> 5. 2, 3, 4.</p>
+            <p>Into what a ſad condition then, will the impoſing this new Co<g ref="char:EOLhyphen"/>venant caſt thouſands, and ten thouſands of poore ſoules through<g ref="char:EOLhyphen"/>out rhis miſerable Kingdome? Fear and the pit, and the ſnare (as once the Prophet <hi>Eſay</hi> ſpake) are upon thee, O inhabitant [of this Nation.] He that flyeth from the noiſe of the feare, ſhall fall into pit, and he that commeth up out of the middeſt of the pit ſhall bee taken in the ſnare. If men doe not take this oath the feare of being plundered, impriſoned, and utterly ruined in their eſtates, will ſeiſe upon them, there is the feare; if they do take this oath, the guilt of Gods diſpleaſure againſt rebellion, treaſon, and perjury, that ſwal<g ref="char:EOLhyphen"/>lowes them up, there is the pit: and whether they take it or take it not, they themſelves are taken, there is the ſnare. Now hee that flyeth from the noiſe of that feare, ſo as to ruſh into the new cove<g ref="char:EOLhyphen"/>nant
+<pb n="12" facs="tcp:111074:9"/>
+(as multitudes are likely to doe) he cannot but fall into the pit of Gods diſpleaſure, and if then through Gods mercy, one deep calling upon another, he chance to recover out of that pit by con<g ref="char:EOLhyphen"/>feſſing his ſin, and humbling his ſoule for it, and ſo returne to his former duty towards God, and his Vicegerent, then he is ſure to be maligned and perſecuted (perhaps more then if he had never ta<g ref="char:EOLhyphen"/>ken this oath) by them that perſiſt in their iniquity, and whatſoever he doth, he is ſure to be undone. Oh the matchleſſe cruelty of this mercileſſe Oath. In all former Orders and Ordinances they did but angle for us, as the Prophet complained of ſome Hab. 1. 15. my meaning is, they caught but here and there one of us; but by this order they intend to catch us all as in a net, and to gather us together as in a drag. All the heavy impoſitions, taxes, plunderings, rapines, and other grievous oppreſſions, whereby mens eſtates have been exhauſted, all the lies, ſlanders, and falſe accuſations, whereby mens good names have been blaſted, and all the reſtraints, impriſonments, and other illegall and unchriſtian purſutes, where<g ref="char:EOLhyphen"/>with mens bodies have been vexed, are not to be named the ſame age with this one act of cruelty to mens ſoules; ſo much the more cruell becauſe the cruelty is the leſſe diſcernable being maskt with the pretence of Religion, like thoſe poyſons that looke faireſt, and kill ſooneſt and ſureſt. How fitly may that pious wiſh of Hilary againſt Conſtantius be now taken up by every ſufferer in this cauſe, O that thou, who art the Omnipotent God, Creator of all things, and Father of our Lord Jeſus Chriſt, wouldſt have been pleaſed to have ordered my age and time<g ref="char:punc">▪</g> that I might have fulfilled this of<g ref="char:EOLhyphen"/>fice of making this my confeſſion of thee and thine only Son (for this truth, which I ſuffer for, is thine and thy Sons as well as any truth whatſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever) in the times of Nero or Decius; for then my happy fight or combat had beene againſt ſuch abſolute enemies, that no doubt would have been made, but that they were perſecu<g ref="char:EOLhyphen"/>tors, which would with tortures, ſword and fire compell mee to
+<pb n="13" facs="tcp:111074:9"/>
+deny thee; neither needed we then to do more to approve our ſelves to thee, then to ſuffer death for thee. We Chriſtians were wont to fight openly and boldly againſt thoſe that openly deny thee, and tor<g ref="char:EOLhyphen"/>ment and ſlay thoſe that are thine: and if our caſe were ſuch now, thy people would accompany us as their Captaines and leaders, in ma<g ref="char:EOLhyphen"/>king the like religious confeſſion with us: but we fight againſt a cloſe deceitfull perſecuter, againſt a fawning enemy, againſt an enemy that doth not openly threaten fire and fagget, but privately kindle hell fire againſt us, that doth not intend to overcome but to domineere, that confeſſeth thy Chriſt that he may deny him, that pretends to procure unity or aſſociation that there may be peace, that ſuppreſſeth Hereſies that there may be no Chriſtians, that honours Prieſts that there may be no Biſhops, &amp;c. And how well may others be admo<g ref="char:EOLhyphen"/>niſhed in this caſe, as the wiſe man counſelleth his ſon, Proverb. 1. My ſon if ſinners entice thee, conſent thou not. If they ſay, Come with us, let us lay wait for bloud, let us lurke privily for the innocent without cauſe: let us ſwallow them alive as the grave, and whole as thoſe that goe downe into the pit. We ſhall finde all pretious ſub<g ref="char:EOLhyphen"/>ſtance wee ſhall fill our houſes with ſpoyle &amp;c. And high time it is for all honeſt men to take up that prayer of David, Pſal. 17. Here the right, O Lord, attend unto my cry, &amp;c. And till God ſhall heare this prayer, let all wait with patience, &amp; ſuffer with courage; let us neither be over carefull for the things fo this life, nor over fearfull to part with them, and life, and all for truth and righteouſneſſe ſake: Let us remember, that when men revile us, and perſecute us, and ſpeake all manner of evill againſt us falſely for Chriſt, then we are bleſſed, and therefore have cauſe to rejoyce, and be exceeding glad, knowing that great is our reward which is in heaven. Let us in a word, not feare them which kill the body, but are not able to kill the ſoul; but let us fear him which is able to deſtroy both ſoule and body in hell. From whence, and from all things leading thereunto, eſpecially from this new Oath, Vow and Covenant, Good Lord deliver us.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
